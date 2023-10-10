@@ -7,3 +7,12 @@ compile like dis
 ```python
 pyinstaller --noconsole zenny.py
 ```
+# added
+errorhandling
+roblox
+exodus
+steam
+antidebug
+
+#todo
+ill add more just give me idea idk bout making bsod script 
